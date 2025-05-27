@@ -39,7 +39,7 @@
 
 ## WORK EXPERIENCE
 
-### CYBER SECURITY ENGINEER | [skillmate.ai](https://skillmate.ai) **September 2024 – Present**
+### CYBER SECURITY ENGINEER | [skillmate.ai](https://skillmate.ai) **September 2024 – March 2025**
 
 - Collaborated with development teams to report vulnerabilities and suggested to implemented secure user data collection technologies
 - Executed custom scripts and managed log monitoring systems using Wazuh to ensure real-time threat detection and response. Conducted daily security testing of updated or newly introduced features in the portal to identify and address vulnerabilities proactively.
